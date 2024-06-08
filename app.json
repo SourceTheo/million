@@ -1,0 +1,26 @@
+{
+	"name": "Million Winner",
+	"description": "بوت لعبة من سيربح المليون",
+	"logo": "https://graph.org/file/e66caa3ae1f673b2e7c9e.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"telethon"
+	],
+	"repository": "https://github.com/modymesourceze/AL-QURAN",
+    "env": {
+        "ELHYBA": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""            
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
